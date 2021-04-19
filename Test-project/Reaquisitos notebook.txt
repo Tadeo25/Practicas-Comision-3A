@@ -1,0 +1,13 @@
+Minimo un Intel core i3 o un Amd ryzen 3
+Minimo 8gb de ram
+Si o si un disco solido (Si viene un disco mecanico se puede cambiar por uno solido manualmente)
+
+Clave MongoAtlas: Mocoroa123.
+
+Usuario de cluster: usuario: Soyadmin
+                    clave: vYpXzq1CcPoTE3VW
+
+sr: 6018
+    Juanes12
+online banking: Juanes0681
+                068

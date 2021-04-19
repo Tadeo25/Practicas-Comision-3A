@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/HLSColorSpace.png/250px-HLSColorSpace.png" type="image/x-icon">
+    <title>Color Random</title>
+</head>
+<body id="bgcolor" bgcolor="">
+    <script>
+        let bg_color = Math.floor(Math.random() * 166777215).toString(16);
+        bg_color = "#" + ("000000" + bg_color).slice(-6);
+        document.bgColor = bg_color;
+        console.log(bg_color)
+    </script>
+</body>
+</html>

@@ -1,0 +1,16 @@
+Tabnine
+Reactjs code snippets
+Prettier - Code formatter
+Prettier - Code formatter
+Live Server
+JavaScript standardjs styled snippets
+IntelliSense for CSS class names in HTML
+indent-rainbow
+GitLens — Git supercharged
+generate-react-component
+Fullstack React/React Native snippets
+ESLint
+Community Material Theme
+Code Spell Checker
+Bootstrap Product Icons
+
